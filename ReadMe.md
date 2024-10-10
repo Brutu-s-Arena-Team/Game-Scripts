@@ -6,7 +6,7 @@ Brutu's Arena is a Real-Time PVP and Medieval Minecraft-styled Indie Game
 ## Application Programming Interface (API) Documentation
 the Entire Game is Scripted with Java using ITsMagic Engine
 
-Here is a Huge Services and Classes List:
+Here is a Huge (not Really) Services and Classes List:
 - Services
 	1. [Player Service]()
 	2. [Game Service]()
