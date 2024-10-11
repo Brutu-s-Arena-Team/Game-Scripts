@@ -16,7 +16,7 @@ Here is a Huge (not Really) Services and Classes List:
 	6. [Client Service]()
 	7. [World Service]()
 - Classes
- 	1. [Player]()
+ 	1. [Player](https://github.com/Brutu-s-Arena-Team/Game-Scripts/blob/main/scripts/Player.java)
 	2. [Entity](https://github.com/Brutu-s-Arena-Team/Game-Scripts/blob/main/scripts/Entity.java)
 	3. [Item Object]()
 	4. [Content Addon]()
