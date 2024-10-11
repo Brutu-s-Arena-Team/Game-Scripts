@@ -8,11 +8,11 @@ void main(String[] args)
 ```
 `Player` List Getter: Get the Current Player List
 ```java
-void ArrayList<Player> getPlayerList()
+ArrayList<Player> getPlayerList()
 ```
 `Player` Index Getter: Get the Exact Player by Index
 ```java
-void Player getPlayerByIndex()
+Player getPlayerByIndex()
 ```
 
 ## Sample Script
