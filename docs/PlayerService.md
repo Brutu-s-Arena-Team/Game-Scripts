@@ -19,7 +19,7 @@ void Player getPlayerByIndex()
 a Simple Script Example:
 ```java
 // Player LOD Utils
-public class SimplePlayerLOD extends SimpleLOD
+public class SimplePlayerLOD extends LOD
 {
     // Private Constructor
     private SimplePlayerLOD()
