@@ -18,6 +18,22 @@ void Player getPlayerByIndex()
 ## Sample Script
 a Simple Script Example:
 ```java
+// Code Package Declaration
+package JAVARuntime;
+
+// Useful Imports (Explicits from ITsMagic Engine)
+import JAVARuntime.Component;
+import JAVARuntime.SpatialObject;
+import JAVARuntime.AsyncTask;
+import JAVARuntime.AsyncRunnable;
+
+// Useful Imports (Explicits from Base Game)
+import JAVARuntime.PlayerService;
+import JAVARuntime.Player;
+
+// Useful Import (Explicits from Java)
+import java.util.ArrayList;
+
 // Player LOD Utils
 public class SimplePlayerLOD extends LOD
 {
