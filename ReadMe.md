@@ -8,7 +8,7 @@ the Entire Game is Scripted with Java using ITsMagic Engine
 
 Here is a Huge (not Really) Services and Classes List:
 - Services
-	1. [Player Service]()
+	1. [Player Service](https://github.com/Brutu-s-Arena-Team/Game-Scripts/blob/main/scripts/PlayerService.java)
 	2. [Game Service]()
 	3. [Async Thread Service]()
 	4. [Inanimated Entity Service]()
