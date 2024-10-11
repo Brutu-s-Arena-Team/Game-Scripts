@@ -2,15 +2,15 @@
 Yes, a Very Useful Service with Player Utils (Kick System, Kill System and more)
 
 ## Static Functions
-Main Function: Executed First
+`Main` Function: Executed First
 ```java
 void main(String[] args)
 ```
-Player List Getter: Get the Current Player List
+`Player` List Getter: Get the Current Player List
 ```java
 void ArrayList<Player> getPlayerList()
 ```
-Player Index Getter: Get the Exact Player by Index
+`Player` Index Getter: Get the Exact Player by Index
 ```java
 void Player getPlayerByIndex()
 ```
@@ -28,6 +28,7 @@ public class SimplePlayerLOD extends SimpleLOD
         super();
     }
 
+    @Override
     // Public Loop Function
     public void loop()
     {
