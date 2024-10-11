@@ -22,4 +22,5 @@ Here is a Huge (not Really) Services and Classes List:
 	4. [Content Addon]()
 	5. [User UI Element]()
 
-Warning: is Allowed the Addon Creation for this Game (Except if You Introduce a Nintendo or another Game Company Content in this Addon)
+## Application Programming Interface (API) Rules
+its Allowed the Addon Creation for this Game (Except if You Introduce a Nintendo or another Game Company Content in this Addon)
