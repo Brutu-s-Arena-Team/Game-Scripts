@@ -5,12 +5,12 @@ package JAVARuntime;
 import JAVARuntime.Component;
 import JAVARuntime.SpatialObject;
 import JAVARuntime.AsyncTask;
+import JAVARuntime.AsyncRunnable;
 
 // Importações Úteis (Explícitas do Jogo Padrão)
 import JAVARuntime.Player;
 
 // Importações Úteis (Explícitas do Java)
-import java.lang.Object;
 import java.lang.String;
 import java.util.ArrayList;
 
