@@ -4,13 +4,11 @@ package JAVARuntime;
 // Importações Úteis (Explícitas da ITsMagic Engine)
 import JAVARuntime.Component;
 import JAVARuntime.SpatialObject;
-import JAVARuntime.AsyncTask;
 
 // Importações Úteis (Explícitas do Jogo Padrão)
 import JAVARuntime.Entity;
 
 // Importações Úteis (Explícitas do Java)
-import java.lang.Object;
 import java.lang.String;
 import java.util.ArrayList;
 
@@ -51,7 +49,7 @@ public class Player extends Entity
     {
         // Obtenha e Adiciona as Animações do Jogador
         this.getAnimationList().add(new EntityAnimation(new ArrayList<EntityKeyframe>()));
-        this.getAnimationByIndex(0).keyframes.add(new EntityKeyframe(0.0f, null));
+        this.getAnimationByIndex(0).keyframes.add(new EntityKeyframe(0.0f, new Transform()));
     }
     
     @Override
