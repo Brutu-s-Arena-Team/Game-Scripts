@@ -4,14 +4,11 @@ package JAVARuntime;
 // Importações Úteis (Explícitas da ITsMagic Engine)
 import JAVARuntime.Component;
 import JAVARuntime.SpatialObject;
-import JAVARuntime.AsyncTask;
-import JAVARuntime.AsyncRunnable;
 
 // Importações Úteis (Explicitas do Jogo Padrão)
 import JAVARuntime.EntityAnimation;
 
 // Importações Úteis (Explícitas do Java)
-import java.lang.Object;
 import java.lang.String;
 
 @ClassCategory(cat = "Object")
