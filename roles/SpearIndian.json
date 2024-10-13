@@ -10,6 +10,7 @@
             "display": "Poison Spear",
             "type": "Interactable.ITEM",
             "impactDamage": 5.5,
+            "poisonDamage": 2.25,
             "index": 1
         },
         {
