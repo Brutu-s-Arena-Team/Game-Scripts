@@ -16,6 +16,7 @@
         },
         {
             "display": "Wind Dash",
+            "type": "Interactable.HABILITY",
             "dashDistance": 3.0,
             "dashDamage": 6.0,
             "dashKnockback": 1.5
