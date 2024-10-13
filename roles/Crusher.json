@@ -3,7 +3,8 @@
     "attributes": {
         "hitpoints": 22.0,
         "mass": 100.0,
-        "speed": 1.665
+        "speed": 1.665,
+        "isMelee": true
     },
     "slots": [
         {
@@ -16,8 +17,9 @@
         {
             "display": "Jump Rush",
             "type": "Interactable.HABILITY",
-            "distance": 2.5,
+            "rushDistance": 2.5,
             "rushDamage": 8.85,
+            "rushKnockback": 2.22,
             "index": 2
         }
     ]
