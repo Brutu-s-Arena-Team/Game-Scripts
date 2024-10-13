@@ -10,7 +10,6 @@
             "display": "Heavy Mace",
             "type": "Interactable.ITEM",
             "impactDamage": 6.0,
-            "maxDamage": 32.0,
             "increaseByHeight": 1.25,
             "index": 1
         },
