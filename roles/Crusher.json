@@ -1,0 +1,21 @@
+{
+    "name": "Crusher",
+    "attributes": {
+        "hitpoints": 22.0,
+        "impactPoints": 6.0,
+        "mass": 100.0,
+        "speed": 1.665
+    },
+    "slots": [
+        {
+            "display": "Heavy Mace",
+            "type": "Interactable.ITEM",
+            "index": 1
+        },
+        {
+            "display": "Jump Rush",
+            "type": "Interactable.HABILITY",
+            "index": 2
+        }
+    ]
+}
