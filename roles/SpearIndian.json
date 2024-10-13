@@ -1,0 +1,22 @@
+{
+    "name": "Spear Indian",
+    "attributes": {
+        "hitpoints": 18.0,
+        "mass": 68.5,
+        "speed": 2.2,
+    },
+    "slots": [
+        {
+            "display": "Poison Spear",
+            "type": "Interactable.ITEM",
+            "impactDamage": 5.5,
+            "index": 1
+        },
+        {
+            "display": "Speed Increase",
+            "type": "Interactable.HABILITY",
+            "speed": 2.75,
+            "index": 2
+        }
+    ]
+}
