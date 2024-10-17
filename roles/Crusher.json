@@ -1,25 +1,28 @@
 {
     "name": "Crusher",
     "attributes": {
-        "hitpoints": 22.0,
+        "hitpoints": 20.0,
         "mass": 100.0,
-        "speed": 1.665,
+        "speed": 1.8,
         "isMelee": true
     },
     "slots": [
         {
             "display": "Heavy Mace",
             "type": "Interactable.ITEM",
-            "impactDamage": 6.0,
+            "impactDamage": 6.5,
             "increaseByHeight": 1.25,
+            "isAreaImpact": true,
+            "areaImpact": 1.5,
             "index": 1
         },
         {
             "display": "Jump Rush",
             "type": "Interactable.HABILITY",
             "rushDistance": 2.5,
-            "rushDamage": 8.85,
+            "rushDamage": 9.5,
             "rushKnockback": 2.22,
+            "stunDuration": 1.0,
             "index": 2
         }
     ]
