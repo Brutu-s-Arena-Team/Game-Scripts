@@ -3,21 +3,23 @@
     "attributes": {
         "hitpoints": 18.0,
         "mass": 68.5,
-        "speed": 2.2,
+        "speed": 2.4,
         "isMelee": false
     },
     "slots": [
         {
             "display": "Poison Spear",
             "type": "Interactable.ITEM",
-            "impactDamage": 5.5,
-            "poisonDamage": 2.25,
+            "impactDamage": 5.75,
+            "poisonDamage": 3.0,
+            "isAreaDmg": false,
             "index": 1
         },
         {
             "display": "Speed Increase",
             "type": "Interactable.HABILITY",
             "speed": 2.75,
+            "evadeChance": 20.0,
             "index": 2
         }
     ]
