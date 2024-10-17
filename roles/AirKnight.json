@@ -12,8 +12,8 @@
             "type": "Interactable.ITEM"
             "impactDamage": 7.0,
             "airSlashDamage": 5.5,
-            "isAreaImpact": true,
-            "areaImpact": 2.75,
+            "isAreaDmg": true,
+            "impactArea": 2.75,
             "impactKnockback": 1.2,
             "index": 1
         },
