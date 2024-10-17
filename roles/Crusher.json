@@ -12,8 +12,8 @@
             "type": "Interactable.ITEM",
             "impactDamage": 6.5,
             "increaseByHeight": 1.25,
-            "isAreaImpact": true,
-            "areaImpact": 1.5,
+            "isAreaDmg": true,
+            "impactArea": 1.5,
             "index": 1
         },
         {
