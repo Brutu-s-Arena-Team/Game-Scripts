@@ -2,7 +2,7 @@
     "name": "Air Knight",
     "attributes": {
         "hitpoints": 20.0,
-        "mass": 75,
+        "mass": 72.0,
         "speed": 2.0,
         "isMelee": true,
     },
@@ -11,14 +11,18 @@
             "display": "Gale Blade",
             "type": "Interactable.ITEM"
             "impactDamage": 7.0,
-            "airSlashDamage": 5.0,
+            "airSlashDamage": 5.5,
+            "isAreaImpact": true,
+            "areaImpact": 2.75,
+            "impactKnockback": 1.2,
             "index": 1
         },
         {
             "display": "Wind Dash",
             "type": "Interactable.HABILITY",
             "dashDistance": 3.0,
-            "dashDamage": 6.0,
+            "dashDamage": 6.5,
+            "ignoreDamageDuration": 1.0,
             "dashKnockback": 1.5
         }
     ]
